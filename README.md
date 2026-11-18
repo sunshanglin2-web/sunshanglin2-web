@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm 嗒嗒 ✦
 
-<!--
-**sunshanglin2-web/sunshanglin2-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**现代人本主义占星师 · 6 年经验** · AI 时代开始学编程 · 创立自我觉察品牌 **「嗒嗒日记 TATTA JOURNAL」**
 
-Here are some ideas to get you started:
+> **内观其序，自修其身。** — Observe the order within. Cultivate the self.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 我在做什么
+
+**嗒嗒日记（TATTA JOURNAL）** — 一个以占星为核心的**自我觉察与个人成长品牌**。星象提供参照，不替人决定；理解自身之后，主动权与选择仍在人手中。
+
+- **立意**：向内觉察，自我成长
+- **哲学**：现代极简为方法，东方自然美学为内在语言；苏式园林的整体美学与观物哲学（静、虚、简、序）
+- **主线**：时间——天象时序、自然材质沉淀、日复一日的自我记录
+
+## 🧭 我是谁
+
+- **职业**：现代人本主义占星师（6 年）
+  - 方向：本命盘、行运、合盘；从符号走向生活经验，不简化为标签
+  - 立场：人本主义、反宿命论；尊重个体差异与自主选择
+- **新探索**：AI 兴起后对编程产生兴趣，正在学习
+- **跨界**：占星 × 编程 × 品牌设计
+
+## 🛠️ 技能
+
+- **占星**：现代人本主义占星、本命盘解读、行运推运、比较盘/合盘
+- **编程（学习中）**：Python（起步）、Git / GitHub
+- **设计**：字体设计、品牌视觉（自研 Tatta Journal 字体系）
+
+## 📂 作品
+
+- **嗒嗒日记** — 星象 × 日记 × 首饰 的自我觉察品牌（[链接待补]）
+- **Tatta Journal 字体系** — 品牌专属字体，含 12 星座 / 10 星体符号系统
+
+## 📫 联系我
+
+- 📧 邮箱：_待填_
+- 🌐 网站：建设中，敬请期待
+
+---
+
+> 星象提供参照，不替人决定。欢迎交流占星、编程与品牌设计 ✦
