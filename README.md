@@ -33,6 +33,7 @@ docs:
   doctrine_stage4: PRODUCT.md
   story_stage5: STORY.md
   ux_stage6: UX.md
+  communication_stage7: COMMUNICATION.md
 ---
 
 # Hi, I'm 嗒嗒 ✦
@@ -54,6 +55,7 @@ docs:
 | [`PRODUCT.md`](PRODUCT.md) | **第四阶段** · 产品理念与功能价值 —— 10 章。核心产品(真人一对一咨询)、咨询理念、客户价值、服务模式、成长手册、隐私档案、专业责任、产品生态、品牌成长、商业化与规模。 |
 | [`STORY.md`](STORY.md) | **第五阶段** · 品牌故事与精神表达 —— 8 章。品牌的诞生、品牌与创始人的关系、独立性与思想传承、精神与外界认知、原则与底线、传递的思想、故事的形成与延续、核心表达。 |
 | [`UX.md`](UX.md) | **第六阶段** · 用户体验与交互文字 —— 8 章。整体体验理念、品牌入口与信息呈现、咨询板块体验方向、咨询前资料收集、第一次交流、咨询结束与后续反馈、交互文字基本原则、核心总结。 |
+| [`COMMUNICATION.md`](COMMUNICATION.md) | **第七阶段** · 品牌传播与内容体系 —— 13 章。传播核心定位、内容方向与结构、思想与商业化关系、形式与节奏、平台统一性、热点趋势、品牌语言、创始人表达关系、成长记录、观点与反馈、商业与视觉规范、栏目与互动、核心总结。 |
 | [`PROGRESS.md`](PROGRESS.md) | **品牌档案 & 进度** —— 缘起大事记、阶段总览、里程碑、进度日志。 |
 
 ---
@@ -62,12 +64,12 @@ docs:
 
 **嗒嗒日记 TATTA JOURNAL** · 品牌进度跟踪
 
-- **品牌生日:2026-11-19** · **整体进度:约 65%** `[████████████████░░░░░]`
+- **品牌生日:2026-11-19** · **整体进度:约 70%** `[█████████████████░░░░]`
 - **当前阶段**:视觉识别系统 🔄 · Tatta Journal 字体系 🔄 · 官网上线 🔄
-- **最近完成**:品牌哲学总纲 `PHILOSOPHY.md` + 一至六阶段文档 `INTERVIEW / POSITIONING / USER / PRODUCT / STORY / UX`(2026-11-21)
+- **最近完成**:品牌哲学总纲 `PHILOSOPHY.md` + 一至七阶段文档 `INTERVIEW / POSITIONING / USER / PRODUCT / STORY / UX / COMMUNICATION`(2026-11-21)
 - **下一里程碑**:视觉识别基础规范 V1
 
-👉 详细进度见 [`PROGRESS.md`](PROGRESS.md) · 品牌哲学见 [`PHILOSOPHY.md`](PHILOSOPHY.md) · 一阶段访谈见 [`INTERVIEW.md`](INTERVIEW.md) · 二阶段访谈见 [`POSITIONING.md`](POSITIONING.md) · 三阶段访谈见 [`USER.md`](USER.md) · 四阶段产品理念见 [`PRODUCT.md`](PRODUCT.md) · 五阶段品牌故事见 [`STORY.md`](STORY.md) · 六阶段用户体验见 [`UX.md`](UX.md)
+👉 详细进度见 [`PROGRESS.md`](PROGRESS.md) · 品牌哲学见 [`PHILOSOPHY.md`](PHILOSOPHY.md) · 一阶段访谈见 [`INTERVIEW.md`](INTERVIEW.md) · 二阶段访谈见 [`POSITIONING.md`](POSITIONING.md) · 三阶段访谈见 [`USER.md`](USER.md) · 四阶段产品理念见 [`PRODUCT.md`](PRODUCT.md) · 五阶段品牌故事见 [`STORY.md`](STORY.md) · 六阶段用户体验见 [`UX.md`](UX.md) · 七阶段传播与内容见 [`COMMUNICATION.md`](COMMUNICATION.md)
 
 ---
 
