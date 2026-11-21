@@ -27,6 +27,7 @@ keywords:
 docs:
   charter: CHARTER.md
   brand_manual: BRAND_MANUAL.md
+  founder_narrative: FOUNDER_NARRATIVE.md
   philosophy: PHILOSOPHY.md
   progress: PROGRESS.md
   interview_stage1: INTERVIEW.md
@@ -52,6 +53,7 @@ docs:
 |------|------|
 | [`CHARTER.md`](CHARTER.md) | **品牌战略与建设总纲** —— 八阶段整合版 **V1.0**。序言 + 十章(哲学/定位/产品/体验/故事/视觉/传播/边界/经营原则/执行方向)+ 结语。**品牌纲领性文件,一切品牌工作的基础。** |
 | [`BRAND_MANUAL.md`](BRAND_MANUAL.md) | **品牌手册** —— **V1.0**。16 章(概述/哲学/定位/个性/故事/产品/视觉/色彩/Logo字体/排版图片/语言/体验/传播/长期发展/资产/承诺)。**品牌建设与对外表达的统一依据。** |
+| [`FOUNDER_NARRATIVE.md`](FOUNDER_NARRATIVE.md) | **创始人自述文案** —— 《在时间里，走成自己》。散文式个人成长叙事,记录毕业之后的成长路径。**品牌故事页 / 关于我 素材。** |
 | [`PHILOSOPHY.md`](PHILOSOPHY.md) | **品牌哲学总纲** —— 品牌的信仰、边界、与用户的关系。**品牌最核心的一份文档。** |
 | [`INTERVIEW.md`](INTERVIEW.md) | **访谈 · 第一阶段** · 品牌哲学与设计美学 —— 20 问。三部分:品牌设计理念 / 与苏式园林哲学 · 东方美学的共识 / 与现代主义设计美学的共识。 |
 | [`POSITIONING.md`](POSITIONING.md) | **访谈 · 第二阶段** · 品牌定位与核心价值 —— 20 问。五部分:品牌希望带来的变化 / 品牌用户与价值观 / 自我认识与成长阻碍 / 品牌价值与用户获得 / 品牌精神与核心理念。 |
@@ -73,7 +75,7 @@ docs:
 - **最近完成**:**品牌手册 `BRAND_MANUAL.md` V1.0** + **品牌战略与建设总纲 `CHARTER.md` V1.0**(2026-11-21)+ 一至七阶段文档
 - **下一里程碑**:官网建设方案
 
-👉 总纲见 [`CHARTER.md`](CHARTER.md) · 品牌手册见 [`BRAND_MANUAL.md`](BRAND_MANUAL.md) · 详细进度见 [`PROGRESS.md`](PROGRESS.md) · 品牌哲学见 [`PHILOSOPHY.md`](PHILOSOPHY.md) · 一阶段访谈见 [`INTERVIEW.md`](INTERVIEW.md) · 二阶段访谈见 [`POSITIONING.md`](POSITIONING.md) · 三阶段访谈见 [`USER.md`](USER.md) · 四阶段产品理念见 [`PRODUCT.md`](PRODUCT.md) · 五阶段品牌故事见 [`STORY.md`](STORY.md) · 六阶段用户体验见 [`UX.md`](UX.md) · 七阶段传播与内容见 [`COMMUNICATION.md`](COMMUNICATION.md)
+👉 总纲见 [`CHARTER.md`](CHARTER.md) · 品牌手册见 [`BRAND_MANUAL.md`](BRAND_MANUAL.md) · 创始人自述见 [`FOUNDER_NARRATIVE.md`](FOUNDER_NARRATIVE.md) · 详细进度见 [`PROGRESS.md`](PROGRESS.md) · 品牌哲学见 [`PHILOSOPHY.md`](PHILOSOPHY.md) · 一阶段访谈见 [`INTERVIEW.md`](INTERVIEW.md) · 二阶段访谈见 [`POSITIONING.md`](POSITIONING.md) · 三阶段访谈见 [`USER.md`](USER.md) · 四阶段产品理念见 [`PRODUCT.md`](PRODUCT.md) · 五阶段品牌故事见 [`STORY.md`](STORY.md) · 六阶段用户体验见 [`UX.md`](UX.md) · 七阶段传播与内容见 [`COMMUNICATION.md`](COMMUNICATION.md)
 
 ---
 
