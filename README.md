@@ -25,6 +25,7 @@ keywords:
   - 苏式园林
   - 极简主义
 docs:
+  charter: CHARTER.md
   philosophy: PHILOSOPHY.md
   progress: PROGRESS.md
   interview_stage1: INTERVIEW.md
@@ -48,6 +49,7 @@ docs:
 
 | 文件 | 用途 |
 |------|------|
+| [`CHARTER.md`](CHARTER.md) | **品牌战略与建设总纲** —— 八阶段整合版 **V1.0**。序言 + 十章(哲学/定位/产品/体验/故事/视觉/传播/边界/经营原则/执行方向)+ 结语。**品牌纲领性文件,一切品牌工作的基础。** |
 | [`PHILOSOPHY.md`](PHILOSOPHY.md) | **品牌哲学总纲** —— 品牌的信仰、边界、与用户的关系。**品牌最核心的一份文档。** |
 | [`INTERVIEW.md`](INTERVIEW.md) | **访谈 · 第一阶段** · 品牌哲学与设计美学 —— 20 问。三部分:品牌设计理念 / 与苏式园林哲学 · 东方美学的共识 / 与现代主义设计美学的共识。 |
 | [`POSITIONING.md`](POSITIONING.md) | **访谈 · 第二阶段** · 品牌定位与核心价值 —— 20 问。五部分:品牌希望带来的变化 / 品牌用户与价值观 / 自我认识与成长阻碍 / 品牌价值与用户获得 / 品牌精神与核心理念。 |
@@ -64,12 +66,12 @@ docs:
 
 **嗒嗒日记 TATTA JOURNAL** · 品牌进度跟踪
 
-- **品牌生日:2026-11-19** · **整体进度:约 70%** `[█████████████████░░░░]`
+- **品牌生日:2026-11-19** · **整体进度:约 75%** `[██████████████████░░░]`
 - **当前阶段**:视觉识别系统 🔄 · Tatta Journal 字体系 🔄 · 官网上线 🔄
-- **最近完成**:品牌哲学总纲 `PHILOSOPHY.md` + 一至七阶段文档 `INTERVIEW / POSITIONING / USER / PRODUCT / STORY / UX / COMMUNICATION`(2026-11-21)
-- **下一里程碑**:视觉识别基础规范 V1
+- **最近完成**:**品牌战略与建设总纲 `CHARTER.md` V1.0**(八阶段整合,2026-11-21)+ 一至七阶段文档 `INTERVIEW / POSITIONING / USER / PRODUCT / STORY / UX / COMMUNICATION`
+- **下一里程碑**:品牌手册
 
-👉 详细进度见 [`PROGRESS.md`](PROGRESS.md) · 品牌哲学见 [`PHILOSOPHY.md`](PHILOSOPHY.md) · 一阶段访谈见 [`INTERVIEW.md`](INTERVIEW.md) · 二阶段访谈见 [`POSITIONING.md`](POSITIONING.md) · 三阶段访谈见 [`USER.md`](USER.md) · 四阶段产品理念见 [`PRODUCT.md`](PRODUCT.md) · 五阶段品牌故事见 [`STORY.md`](STORY.md) · 六阶段用户体验见 [`UX.md`](UX.md) · 七阶段传播与内容见 [`COMMUNICATION.md`](COMMUNICATION.md)
+👉 总纲见 [`CHARTER.md`](CHARTER.md) · 详细进度见 [`PROGRESS.md`](PROGRESS.md) · 品牌哲学见 [`PHILOSOPHY.md`](PHILOSOPHY.md) · 一阶段访谈见 [`INTERVIEW.md`](INTERVIEW.md) · 二阶段访谈见 [`POSITIONING.md`](POSITIONING.md) · 三阶段访谈见 [`USER.md`](USER.md) · 四阶段产品理念见 [`PRODUCT.md`](PRODUCT.md) · 五阶段品牌故事见 [`STORY.md`](STORY.md) · 六阶段用户体验见 [`UX.md`](UX.md) · 七阶段传播与内容见 [`COMMUNICATION.md`](COMMUNICATION.md)
 
 ---
 
