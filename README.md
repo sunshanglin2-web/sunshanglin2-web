@@ -27,7 +27,8 @@ keywords:
 docs:
   philosophy: PHILOSOPHY.md
   progress: PROGRESS.md
-  interview: INTERVIEW.md
+  interview_stage1: INTERVIEW.md
+  interview_stage2: POSITIONING.md
 ---
 
 # Hi, I'm 嗒嗒 ✦
@@ -43,7 +44,8 @@ docs:
 | 文件 | 用途 |
 |------|------|
 | [`PHILOSOPHY.md`](PHILOSOPHY.md) | **品牌哲学总纲** —— 品牌的信仰、边界、与用户的关系。**品牌最核心的一份文档。** |
-| [`INTERVIEW.md`](INTERVIEW.md) | **品牌哲学与设计美学访谈** —— 20 问。三部分:品牌设计理念 / 与苏式园林哲学 · 东方美学的共识 / 与现代主义设计美学的共识。 |
+| [`INTERVIEW.md`](INTERVIEW.md) | **访谈 · 第一阶段** · 品牌哲学与设计美学 —— 20 问。三部分:品牌设计理念 / 与苏式园林哲学 · 东方美学的共识 / 与现代主义设计美学的共识。 |
+| [`POSITIONING.md`](POSITIONING.md) | **访谈 · 第二阶段** · 品牌定位与核心价值 —— 20 问。五部分:品牌希望带来的变化 / 品牌用户与价值观 / 自我认识与成长阻碍 / 品牌价值与用户获得 / 品牌精神与核心理念。 |
 | [`PROGRESS.md`](PROGRESS.md) | **品牌档案 & 进度** —— 缘起大事记、阶段总览、里程碑、进度日志。 |
 
 ---
@@ -52,12 +54,12 @@ docs:
 
 **嗒嗒日记 TATTA JOURNAL** · 品牌进度跟踪
 
-- **品牌生日:2026-11-19** · **整体进度:约 40%** `[████████░░░░░░░░░░░░░]`
+- **品牌生日:2026-11-19** · **整体进度:约 45%** `[█████████░░░░░░░░░░░░]`
 - **当前阶段**:视觉识别系统 🔄 · Tatta Journal 字体系 🔄 · 官网上线 🔄
-- **最近完成**:品牌哲学总纲 `PHILOSOPHY.md` + 访谈 `INTERVIEW.md`(2026-11-21)
+- **最近完成**:品牌哲学总纲 `PHILOSOPHY.md` + 一阶段访谈 `INTERVIEW.md` + 二阶段访谈 `POSITIONING.md`(2026-11-21)
 - **下一里程碑**:视觉识别基础规范 V1
 
-👉 详细进度见 [`PROGRESS.md`](PROGRESS.md) · 品牌哲学见 [`PHILOSOPHY.md`](PHILOSOPHY.md) · 访谈见 [`INTERVIEW.md`](INTERVIEW.md)
+👉 详细进度见 [`PROGRESS.md`](PROGRESS.md) · 品牌哲学见 [`PHILOSOPHY.md`](PHILOSOPHY.md) · 一阶段访谈见 [`INTERVIEW.md`](INTERVIEW.md) · 二阶段访谈见 [`POSITIONING.md`](POSITIONING.md)
 
 ---
 
