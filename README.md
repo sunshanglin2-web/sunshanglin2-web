@@ -4,6 +4,7 @@ brand_zh: 嗒嗒日记
 tagline: Personal Growth & Self-discovery
 tagline_zh: 自我觉察,个人成长
 founded: 2026-11-19
+founder: 孙上林
 philosophy_finalized: 2026-11-21
 identity: quiet-minimalist / su-garden / time
 founder_assets:
@@ -41,7 +42,7 @@ docs:
 
 # Hi, I'm 嗒嗒 ✦
 
-**现代人本主义占星师 · 2020 年起学习 · 2026 想法元年** · 创立品牌 **「嗒嗒日记 TATTA JOURNAL」**
+**孙上林** · 现代人本主义占星师 · 2020 年起学习 · 2026 想法元年 · 创立品牌 **「嗒嗒日记 TATTA JOURNAL」**
 
 > **A Quiet Space for Self-Discovery.** — 一个安静的自我探索空间。
 
@@ -96,6 +97,7 @@ docs:
 
 ## 🧭 我是谁
 
+- **姓名**:孙上林(嗒嗒日记创始人)
 - **职业**:现代人本主义占星师(6 年,自 2020 起)
   - 方向:本命盘、行运、合盘;从符号走向生活经验,不简化为标签
   - 立场:人本主义、反宿命论;尊重个体差异与自主选择
