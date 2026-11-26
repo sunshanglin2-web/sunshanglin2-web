@@ -122,6 +122,7 @@ docs:
 
 - **嗒嗒日记 TATTA JOURNAL** — 以个人成长与自我探索为核心的品牌([官方站点:建设中])
 - **Tatta Journal 字体系** — 品牌专属字体,含 12 星座 / 10 星体符号系统
+- **TATTA Logo（新版 v2,2026-11-26）** — 纯文字 Wordmark「Tatta journal」+「T」符号,四态(黑字/反白/深底白字/深底白 T)。图片见 [`TATTA_logo_v2_2026-11-26.png`](TATTA_logo_v2_2026-11-26.png)。
 
 ---
 
